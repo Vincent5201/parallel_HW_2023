@@ -7,3 +7,6 @@
 [HW5-1說明](https://hackmd.io/CtVzKSnBTuGyGFpxEOCpXg?view)
 [HW5-2說明](https://hackmd.io/tuC5klUuSpCNdKhfkARIxQ)
 [HW6說明](https://hackmd.io/LWb1Kb0iQVm2BvORTQq1dA?view)
+
+* 使用工具 (tools): MPI、pthread、OpenMP
+* 題目 (questions): 基礎平行運算、Convex Hull、dijkstra、Matrix Chain Multiplication、Scheduling Problem、Traveling Salesman Problem (Ant Colony Optimization)
